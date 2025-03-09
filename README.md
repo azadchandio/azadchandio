@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my startup **Auole**
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **next.js**
 
