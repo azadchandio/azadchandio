@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **next.js**
 
-- 👨‍💻 All of my projects are available at [www.azadchandio.com](www.azadchandio.com)
+- 👨‍💻 All of my projects are available at [azadchandio.com](https://azadchandio.com)
 
 - 💬 Ask me about **Front End Developer**
 
